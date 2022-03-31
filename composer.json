@@ -1,0 +1,11 @@
+{
+    "name": "mr/cr",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mr\\Cr\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
